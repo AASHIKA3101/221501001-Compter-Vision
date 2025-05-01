@@ -79,7 +79,7 @@ python experiment_name.py
 
 ## 📬 Connect
 
-📧 Email: [aashikadinesh011@gmail.com]  
+📧 Email: [aashikadinesh01@gmail.com]  
 🌐 GitHub: [AASHIKA3101](https://github.com/AASHIKA3101)
 
 ---
